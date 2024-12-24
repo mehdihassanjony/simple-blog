@@ -25,7 +25,7 @@ Users have different roles that dictate the actions they can perform on posts:
 ### Clone the repository
 
 ```bash
-$ git clone git@github.com:mehdihassanjony/role-base-blog.git
+$ git clone git@github.com:mehdihassanjony/simple-blog.git
 $ cd server
 ```
 
